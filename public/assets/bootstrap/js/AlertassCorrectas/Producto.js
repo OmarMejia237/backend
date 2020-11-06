@@ -1,1 +1,0 @@
-alert('Se registro Correctamente el producto');
